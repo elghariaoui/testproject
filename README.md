@@ -90,7 +90,7 @@ Fichiers d'images disponibles actuellement dans `captures/` :
 - `captures/Capture_CI_CD.png` : diagramme du workflow CI/CD (GitHub → Jenkins → Docker Hub → déploiement).
 - `captures/Capture_CI_CD_Stages.png` : affichage des stages d'un build Jenkins (Checkout, Cloning, Building image, Test image, Deploy Image).
 - `captures/Capture_jobs_jenkins.png` : liste des jobs Jenkins (ex. `job1tp4`, `job2tp4`, `job2tp4v2`, `job2tp4v3`).
-- `captures/jobs_list.png` : autre capture de la liste des jobs.
+
 
 Si vous préférez d'autres noms, dites-moi lesquels ; je peux renommer ou remplacer les fichiers.
 
