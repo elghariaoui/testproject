@@ -1,4 +1,4 @@
-# Test_Project
+# Test_Project with Jenkins
 
 Projet Java Web minimal (structure `src/main/java` + `src/main/webapp`) pour développement et déploiement.
 
