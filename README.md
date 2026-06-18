@@ -89,7 +89,6 @@ Fichiers d'images disponibles actuellement dans `captures/` :
 - `captures/Capture_CI.png` : capture générale CI.
 - `captures/Capture_CI_CD.png` : diagramme du workflow CI/CD (GitHub → Jenkins → Docker Hub → déploiement).
 - `captures/Capture_CI_CD_Stages.png` : affichage des stages d'un build Jenkins (Checkout, Cloning, Building image, Test image, Deploy Image).
-- `captures/jenkins_pipeline.png` : illustration d'un script pipeline Jenkins.
 - `captures/Capture_jobs_jenkins.png` : liste des jobs Jenkins (ex. `job1tp4`, `job2tp4`, `job2tp4v2`, `job2tp4v3`).
 - `captures/jobs_list.png` : autre capture de la liste des jobs.
 
@@ -103,8 +102,9 @@ Remarque : `job1tp4` a été créé pour la CI (build & tests) tandis que les jo
 
 ![Jenkins stages](captures/Capture_CI_CD_Stages.png)
 
-![Jenkins pipeline workflow](captures/jenkins_pipeline.png)
-
 ![Jenkins jobs list](captures/Capture_jobs_jenkins.png)
+
+
+
 
 
